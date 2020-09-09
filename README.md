@@ -1,4 +1,4 @@
-# InstagramSocial_ReactJsFirebase
+# MyOTT_ReactJS
 - A web apllication developed using React.js framework.
 - Data of the app is handled and stored using Firebase.
 - In this web app I used TMDB APi to fetch and access data from the movie database.
