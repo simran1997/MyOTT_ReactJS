@@ -1,6 +1,8 @@
 import firebase from "firebase";
 
-const firebaseConfig = {};
+const firebaseConfig = {
+  {add your config key here}
+};
 
 // Initialize Firebase with a "default" Firebase project
 var firebaseProject = firebase.initializeApp(firebaseConfig);
