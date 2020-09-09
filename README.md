@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# InstagramSocial_ReactJsFirebase
+- A web apllication developed using React.js framework.
+- Data of the app is handled and stored using Firebase.
+- In this web app I used TMDB APi to fetch and access data from the movie database.
+- A smooth and clean frontend has been developed which inspired by NETFLIX.
+- Each time when the webApp gets loaded, a random data for a movie popups in the banner section.
+- Also the application have differnet movie sections like trending, comedy, horror etc.
+- User of the application can watch the trailer of the movie by simply clicking on any poster respective to the movie.
+- For this, 'movie-trailer' and 'react-youtube' react packages has been used.
+- This web application is hosted on https://netflix-proj.web.app/
 
 ## Available Scripts
 
