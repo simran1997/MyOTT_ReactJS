@@ -9,6 +9,16 @@
 - For this, 'movie-trailer' and 'react-youtube' react packages has been used.
 - This web application is hosted on https://netflix-proj.web.app/
 
+# Instruction to run the project
+- Simply clone/download the project.
+- Add config key in Firebase.js file.
+- Add your config file/key by registering and creating app on firebase console.
+- Run following commands for the respectives
+  For installing all of the dependencies
+  ### `npm install`
+  For running the project
+  ### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
